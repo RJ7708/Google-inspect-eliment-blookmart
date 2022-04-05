@@ -1,0 +1,13 @@
+copy this into a blookmart for it to work 
+I have 2 differnt versions this one is the first one i got from a friend
+
+
+snowlords develiper console
+
+javascript:(function()%7B(function() %7Bvar x %3D document.createElement("script")%3Bx.src %3D "https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSnowLord7%2Fdevconsole%40master%2Fmain.js"%3Bx.onload %3D alert("Loaded Developer Console!")%3Bdocument.head.appendChild(x)%3B%7D)()%7D)()
+
+
+
+my dev console there are a bunch of bugs i need to fix i will get it fixed as soon as possible
+
+javascript:(function () { var script = document.createElement('script'); script.src="//cdn.jsdelivr.net/npm/eruda"; document.body.appendChild(script); script.onload = function () { eruda.init() } })();
